@@ -1,0 +1,15 @@
+h1 {
+    font-size: 50px;
+    font-style: oblique;
+    color: white;
+}
+
+h2 {
+    font-style: normal;
+    color: gray;
+}
+
+body {
+    background-color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
